@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/signals",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "For working with signals of various kinds",
   "repository": {
     "type": "git",
